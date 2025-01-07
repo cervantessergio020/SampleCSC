@@ -1,1 +1,3 @@
-# SampleCSC
+# SampleCS
+# Team Members
+# Project Pitch
