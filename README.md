@@ -1,6 +1,7 @@
 # SampleCS
 # Team Members
-Sergio Cervantes 
+Sergio Cervantes Jr
+Another team member 
 # Project Pitch
 # Front End
 # Back End
